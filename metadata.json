@@ -1,0 +1,6 @@
+{
+  "name": "PassiveDB Expense Tracker",
+  "description": "เว็บจัดการรายรับรายจ่าย วิทยาลัยอาชีวศึกษาแพร่ พร้อมสรุปผลรายเดือนและกราฟวิเคราะห์ข้อมูล บันทึกข้อมูลด้วย Firebase และระบบเข้าสู่ระบบด้วย Google",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
